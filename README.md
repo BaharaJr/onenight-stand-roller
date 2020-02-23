@@ -1,5 +1,5 @@
 # Dice Roll Game
- > The game was intended to be written in one night from a Udemy JS course by Jonas
+ > The game was intended to be written in one night
 
 ## GAME RULES:
 
