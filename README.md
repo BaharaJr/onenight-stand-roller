@@ -1,5 +1,5 @@
 # Dice Roll Game
- > The game was intended to be written in one night
+ > The game was intended to be written in one night which never happened 🤡🤡
 
 ## GAME RULES
 
